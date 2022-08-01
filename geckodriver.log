@@ -1,0 +1,299 @@
+1658817312494	geckodriver	INFO	Listening on 127.0.0.1:58479
+1658817315559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58481" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofile03l55E"
+1658817316335	Marionette	INFO	Marionette enabled
+1658817316344	Marionette	INFO	Listening on port 58499
+WebDriver BiDi listening on ws://localhost:58481
+1658817316899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofile03l55E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58481/devtools/browser/4966c9c1-4814-4765-8b34-a6307d61af5b
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2qe2ch488m9ek7yzy348udmwd, line 5061: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7ft9l4bosqxj1ghefmvy3zqcp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3zlmc610zrose9nskk21lmqxe, line 39: unreachable code after return statement
+1658817343413	Marionette	INFO	Stopped listening on port 58499
+1658817345031	geckodriver	INFO	Listening on 127.0.0.1:59396
+1658817348396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59397" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileUNrOuo"
+1658817349159	Marionette	INFO	Marionette enabled
+1658817349171	Marionette	INFO	Listening on port 59404
+WebDriver BiDi listening on ws://localhost:59397
+1658817349530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileUNrOuo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59397/devtools/browser/5e61f5b8-60dd-4393-8bf3-b3b6f70fe948
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7ft9l4bosqxj1ghefmvy3zqcp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3zlmc610zrose9nskk21lmqxe, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ejjjwtf24s6uv3qwfb0hzwtds, line 6: unreachable code after return statement
+1658817430117	Marionette	INFO	Stopped listening on port 59404
+8817424106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61130" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileTnFCzB"
+1658817424664	Marionette	INFO	Marionette enabled
+1658817424671	Marionette	INFO	Listening on port 61140
+WebDriver BiDi listening on ws://localhost:61130
+1658817425218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileTnFCzB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61130/devtools/browser/f3abbc1d-adde-4819-84db-6a21cf84dfb9
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7ft9l4bosqxj1ghefmvy3zqcp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3zlmc610zrose9nskk21lmqxe, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ejjjwtf24s6uv3qwfb0hzwtds, line 6: unreachable code after return statement
+1658817467349	Marionette	INFO	Stopped listening on port 61141658817468417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62782" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileQys30W"
+1658817468999	Marionette	INFO	Marionette enabled
+1658817469006	Marionette	INFO	Listening on port 62788
+WebDriver BiDi listening on ws://localhost:62782
+1658817469664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileQys30W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62782/devtools/browser/b0ad0c7d-8a74-4e3c-bd24-77baf63214a2
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7ft9l4bosqxj1ghefmvy3zqcp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3zlmc610zrose9nskk21lmqxe, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ejjjwtf24s6uv3qwfb0hzwtds, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3t82h4euwmojaj5bry63zkjq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3t82h4euwmojaj5bry63zkjq, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658817679467	Marionette	INFO	Stopped listening on port 62788
+[Parent 20240, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileLVC8Op\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61275/devtools/browser/66cdc35b-8028-4e7b-9d65-12d35ff39922
+JavaScript warning: https://static-exp1.licdn.com/sc/h/loxr1hopmkgj2zepfurp1ahj, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/loxr1hopmkgj2zepfurp1ahj, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7ft9l4bosqxj1ghefmvy3zqcp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3zlmc610zrose9nskk21lmqxe, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ejjjwtf24s6uv3qwfb0hzwtds, line 6: unreachable code after return statement
+1658817680110	Marionette	INFO	Stopped listening on port 61281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61406" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileksFIaL"
+1658817676968	Marionette	INFO	Marionette enabled
+1658817676974	Marionette	INFO	Listening on port 61411
+WebDriver BiDi listening on ws://localhost:61406
+1658817677224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileksFIaL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61406/devtools/browser/63182193-2aa1-4795-86b0-f239445b4c5b
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658817735522	Marionette	INFO	Stopped listening on port 61411
+1658817768316	geckodriver	INFO	Listening on 127.0.0.1:61486
+1658817771369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61487" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileJBv84t"
+1658817771915	Marionette	INFO	Marionette enabled
+1658817771922	Marionette	INFO	Listening on port 61492
+WebDriver BiDi listening on ws://localhost:61487
+1658817772612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileJBv84t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61487/devtools/browser/fdbcc1df-615b-4259-b702-14512f469fe9
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7ft9l4bosqxj1ghefmvy3zqcp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3zlmc610zrose9nskk21lmqxe, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ejjjwtf24s6uv3qwfb0hzwtds, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3t82h4euwmojaj5bry63zkjq, line 6: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658817859478	Marionette	INFO	Stopped listening on port 61492
+1658817924046	geckodriver	INFO	Listening on 127.0.0.1:61642
+1658817927125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61643" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofilecvKjKe"
+1658817927585	Marionette	INFO	Marionette enabled
+1658817927592	Marionette	INFO	Listening on port 61652
+WebDriver BiDi listening on ws://localhost:61643
+1658817927811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofilecvKjKe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61643/devtools/browser/eba6cec2-655f-4c3a-b0bc-bf0c65f8bacd
+JavaScript warning: https://static-exp1.licdn.com/sc/h/loxr1hopmkgj2zepfurp1ahj, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/loxr1hopmkgj2zepfurp1ahj, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/clsmxqu01ggcp6n6ep26gdecx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1zmt81m362p1h2bgt0fkwg41n, line 2289: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/30wz14xbir77hx8fn04lespfj, line 18959: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3t82h4euwmojaj5bry63zkjq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bw1jlm39vktsb8hbi6o9bntme, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/154erfbxbrohpik4b8157ul63, line 39: unreachable code after return statement
+1658818250286	geckodriver	INFO	Listening on 127.0.0.1:54469
+1658818253345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54470" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileDSgeSG"
+1658818253941	Marionette	INFO	Marionette enabled
+1658818253949	Marionette	INFO	Listening on port 54476
+WebDriver BiDi listening on ws://localhost:54470
+1658818254408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileDSgeSG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54470/devtools/browser/449586a0-59cc-480c-b429-d2b5b67d2874
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://ads.adthrive.com/builds/core/79e39f8/es2018/js/adthrive.min.js?deployment=aco-668:pr256:flex-19:79e39f8:exp&experiments=stubCMP, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1658818303293	Marionette	INFO	Stopped listening on port 54476
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[2022-07-26T07:53:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:53:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:53:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:53:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:53:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:53:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:53:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:53:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:57:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:57:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:57:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-26T07:57:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+0/devtools/browser/a6b348a9-d0b9-4510-bd71-f57f6448ffb7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 4161 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658823400840	Marionette	INFO	Stopped listening on port 58280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+evtools/browser/9c8e4613-fd50-4050-b678-431b1c93ba0a
+1658822644139	Marionette	INFO	Stopped listening on port 58407
+[Parent 20216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658822796127	geckodriver	INFO	Listening on 127.0.0.1:59018
+1658822799144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileCmkSvY"
+1658822799796	Marionette	INFO	Marionette enabled
+1658822799804	Marionette	INFO	Listening on port 59029
+WebDriver BiDi listening on ws://localhost:59019
+Read port: 59029
+1658822800027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileCmkSvY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59019/devtools/browser/e1b2b194-03de-40b9-a9e2-f3c3f0f0d270
+1658822807494	Marionette	INFO	Stopped listening on port 59029
+1658822978288	geckodriver	INFO	Listening on 127.0.0.1:59186
+1658822981323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileMthbRW"
+1658822981794	Marionette	INFO	Marionette enabled
+1658822981801	Marionette	INFO	Listening on port 59196
+WebDriver BiDi listening on ws://localhost:59187
+Read port: 59196
+1658822982020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileMthbRW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59187/devtools/browser/28cb9f92-37a7-4223-91f8-8c8e278d9f6f
+1658823031672	Marionette	INFO	Stopped listening on port 59191658823033108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileCCt0De"
+1658823033651	Marionette	INFO	Marionette enabled
+1658823033659	Marionette	INFO	Listening on port 59256
+WebDriver BiDi listening on ws://localhost:59245
+Read port: 59256
+1658823033916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THEMAS~1\\AppData\\Local\\Temp\\rust_mozprofileCCt0De\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59245/devtools/browser/452ba712-3144-42c3-9266-5ac9ac9aa32c
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658823053450	Marionette	INFO	Stopped listening on port 59256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
