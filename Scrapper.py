@@ -10,7 +10,7 @@ import PagEscaner
 
 keywords = "Electricista"
 #location = "Málaga, España"
-email="jaguarpowa@gmail.com"
+email="****"
 password = "****"
 
 try:
