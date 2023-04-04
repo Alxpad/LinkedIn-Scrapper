@@ -22,7 +22,7 @@ After that, all the offers will be sorted in a list, where the user will be able
 --- INSTRUCTIONS---
 
   - Clone files in your PC
-  - Launch scrapper.py   OR    launch dist/scrapper.exe
+  - Launch scrapper.py
   
 --- NEXT UPDATES---
   - Detailed Information gathering about offers
