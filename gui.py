@@ -1,4 +1,3 @@
-import threading
 import PySimpleGUI as sg      
 from Selenium4_chrome import *
 from selenium.webdriver.common.keys import Keys
